@@ -1,4 +1,0 @@
-dburl='mongodb+srv://kotadeepthi2005:deepthi@cluster0.aac3rfk.mongodb.net/vms?retryWrites=true&w=majority&appName=Cluster0'
-port = 4000
-
-npm i express mongoose cors nodemon jsonwebtoken joi joi-password-complexity dotenv bcrypt
